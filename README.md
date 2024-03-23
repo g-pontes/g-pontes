@@ -3,10 +3,10 @@
 <br>
 <br>
 <a href="https://github.com/g-pontes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=g-pontes&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=g-pontes&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/g-pontes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-pontes&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-pontes&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 <h2>🚀 My knowledges:</h2>
 <h3> - Programming Languages:</h3>
